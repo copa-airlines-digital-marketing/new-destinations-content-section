@@ -25,12 +25,12 @@
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.36.0",
 		"globals": "^15.0.0",
-		"postcss": "^8.4.39",
+		"postcss": "^8.4.40",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
 		"svelte": "^4.2.7",
 		"svelte-check": "^3.6.0",
-		"tailwindcss": "^3.4.6",
+		"tailwindcss": "^3.4.7",
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"typescript-eslint": "^8.0.0-alpha.20",
@@ -39,6 +39,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"cmds-tailwind-styles": "^1.1.9"
+		"cmds-tailwind-styles": "^1.2.6"
 	}
 }
