@@ -1,5 +1,6 @@
 <script>
-	import DestinationsDescription from "$lib/components/DestinationDescription/DestinationsDescription.svelte";
+	import DestinationActivities from "$lib/components/DestinationActivities/DestinationActivities.svelte";
+import DestinationsDescription from "$lib/components/DestinationDescription/DestinationsDescription.svelte";
 import * as Header from "$lib/components/MainHeader";
 </script>
 
@@ -10,6 +11,7 @@ import * as Header from "$lib/components/MainHeader";
 
 
 <DestinationsDescription/>
+<DestinationActivities/>
 
 
 
