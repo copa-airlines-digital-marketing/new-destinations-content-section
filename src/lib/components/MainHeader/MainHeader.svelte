@@ -21,13 +21,13 @@
 </div>
 -->
 
-<div class="row-start-3 col-span-full container-grid border border-b-[1px]">
+<div class="row-start-3 col-span-full container-grid border border-b-[1px] ">
     <div class="col-start-2 m-8 ">
         <slot ></slot>
     </div>
 </div>
 
-<picture class=" block container mx-auto  sm:aspect-[21_/_8] pt-12 ">
+<picture class=" block container mx-auto  sm:aspect-[21_/_8] pt-8 ">
     <source media="(min-width: 1367px)" srcset="https://cm-marketing.directus.app/assets/{image}?width=2500&format=auto" sizes="">
     <source media="(min-width: 960px)" srcset="https://cm-marketing.directus.app/assets/{image}?width=1367&format=auto" sizes="">
     <source media="(min-width: 600px)" srcset="https://cm-marketing.directus.app/assets/{image}?width=960&format=auto" sizes="">

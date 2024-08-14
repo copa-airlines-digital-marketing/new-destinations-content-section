@@ -1,0 +1,1 @@
+<h3 class="font-gilroy font-bold text-u2 text-primary mb-6" ><slot></slot></h3>
