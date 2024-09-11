@@ -9,7 +9,7 @@
 
 <div class="grid row-span-2 grid-rows-subgrid border border-gray-300 rounded-2xl ">
     <img class="rounded-t-2xl"
-            src="https://cm-marketing.directus.app/assets/{image}?width=1419&height=875&format=auto"
+            src="https://cm-marketing.directus.app/assets/{image}?width=1419&height=875&format=auto&access_token=2NYgIiKkCP6FNY4Jj31_h4d5VKkSSVbZ"
             {alt} />
 
     <div class="m-8 flex flex-col gap-4">
