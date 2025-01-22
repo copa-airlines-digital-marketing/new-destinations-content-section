@@ -1,0 +1,2 @@
+ghpages.publish('build', { branch: 'gh-pages', repo: 'https://github.com/copa-airlines-digital-marketing/new-destinations-content-section', 
+// // Replace with your GitHub repository URL user: { name: 'fakelog', // Replace with your GitHub username email: 'solodyankin.d@outlook.com' // Replace with your email address }, dotfiles: true }, () => { console.log('deployment done'); } );
