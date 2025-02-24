@@ -6,13 +6,13 @@
     import * as Touring from "$lib/components/TouringSection";
 </script>
 
-<Header.Root image='86f6248e-3dd9-49c6-8dc0-ac44de17c327'>
+<Header.Root image='7cd566e5-c0f2-4aed-bb78-55cb33b9bd8d'>
     <Header.Title>San Diego</Header.Title>
-    <Header.Description>¡Bienvenidos a San Diego, la joya de la costa del Pacífico! Con su clima soleado todo el año, playas espectaculares y una vibrante vida cultural, esta ciudad californiana te invita a descubrir su encanto inigualable. Desde La Jolla Cove hasta el histórico Old Town, San Diego es el destino ideal para una escapada inolvidable.</Header.Description>
+    <Header.Description>Bienvenue à San Diego, le joyau de la côte du Pacifique ! Avec son climat ensoleillé toute l’année, ses plages spectaculaires et sa vie culturelle vibrante, cette ville californienne vous invite à découvrir son charme unique. De La Jolla Cove à l’historique Old Town, San Diego est la destination idéale pour une escapade mémorable.</Header.Description>
 </Header.Root>
 
 <Details.Root>
-    <Details.Title descriptionTitle="Datos Importantes">
+    <Details.Title descriptionTitle="Faits pertinents">
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
             <path d="M56.9995 36.085C56.9995 47.6829 47.5975 57.085 35.9995 57.085C24.4015 57.085 14.9995 47.6829 14.9995 36.085C14.9995 24.487 24.4015 15.085 35.9995 15.085C47.5975 15.085 56.9995 24.487 56.9995 36.085Z" fill="white"/>
@@ -23,7 +23,7 @@
     </Details.Title>
 
     <Details.Details>
-        <Details.Detail detailTitle='País' detailDescription='Estados Unidos'>
+        <Details.Detail detailTitle='Pays' detailDescription='États-Unis'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M36.0024 16C45.0024 16 50.9999 23 50.9999 32.5008C50.9999 39.1407 46.7675 45.4985 42.7995 50C41.1621 51.8576 39.5697 53.3991 38.3383 54.5139C36.9971 55.7281 35.0075 55.7282 33.6661 54.5143C32.4343 53.3994 30.8412 51.8578 29.203 50C28.9174 49.6761 28.6304 49.3426 28.3437 49C24.6464 44.582 21 38.6629 21 32.5008C21 23 27.1615 16 36.0024 16Z" fill="#00A3E0"/>
@@ -33,7 +33,7 @@
                 </svg>
         </Details.Detail>
        
-        <Details.Detail detailTitle='Población' detailDescription='+1.3 millones'>
+        <Details.Detail detailTitle='Population' detailDescription='+1.3 million'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -45,7 +45,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Zona Horaria' detailDescription='UTC -8 horas'>
+        <Details.Detail detailTitle='Fuseau horaire' detailDescription='UTC -8 heures'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -57,7 +57,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Vuelos' detailDescription='Cuatro frecuencias semanales' detailURLText='Ver Vuelos' detailURL='https://www.copaair.com/es-gs/flight-status-v1/' >
+        <Details.Detail detailTitle='Vols' detailDescription='Quatre fréquences hebdomadaires' detailURLText='Voir les vols' detailURL='https://www.copaair.com/es-gs/flight-status/' >
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M49.3859 28.6116C52.2903 28.517 54.4714 30.9578 54.6818 32.4202C54.8747 33.8804 53.0216 34.1096 51.5769 34.3273L23.0314 38.436C22.2567 38.5384 21.6076 37.1838 21.2907 36.4446L18.7138 30.2922C18.4778 29.7605 18.8201 29.1381 19.3963 29.0652L19.992 28.9767C20.5507 28.9017 21.0943 29.0941 21.4896 29.4838L23.9617 32.014L32.9291 30.7268L28.0386 18.3202L30.4407 16.8104L41.3946 29.4857L49.3859 28.6116Z" fill="white"/>
@@ -69,7 +69,7 @@
                 </svg>
         </Details.Detail>
         
-        <Details.Detail detailTitle='Clima' detailDescription='4 °C en verano / 10 °C en invierno'>
+        <Details.Detail detailTitle='Climat' detailDescription='4°C en été / 10°C en hiver'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M19 22V51C19 53.7614 21.2386 56 24 56H41.1716C41.702 56 42.2107 55.7893 42.5858 55.4142L48.5 49.5L54.4142 43.5858C54.7893 43.2107 55 42.702 55 42.1716V22C55 20.8954 54.1046 20 53 20H51H48H31H28H21C19.8954 20 19 20.8954 19 22Z" fill="white"/>
@@ -79,7 +79,7 @@
         </Details.Detail>
     
         <Details.Detail 
-        detailTitle='Hoteles' detailDescription='Buscar Hoteles Operado por' detailURLText='Booking.com' detailURL='http://www.w3.org/2000/svg' >
+        detailTitle='Hoteles' detailDescription='Trouvez des hôtels avec' detailURLText='Booking.com' detailURL='https://www.booking.com/city/us/san-diego.fr.html?aid=811211&label=copaair-destinationsguide-cityfacts&sid=7a74a890d8501191d11b71d3d0076e8a&lang=fr' >
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 43.1188 69.8894 50.0778 65.9351 55.9973C61.9807 61.9168 56.3601 66.531 49.7838 69.2567C43.2074 71.9823 35.9706 72.6971 28.9881 71.3105C22.0057 69.924 15.591 66.4984 10.5551 61.4668C5.5192 56.4352 2.08809 50.0235 0.695527 43.0422C-0.697037 36.061 0.0114643 28.8235 2.73147 22.2449C5.45147 15.6662 10.0609 10.0416 15.9769 6.08216C21.893 2.12271 28.8502 0.00613967 35.969 1.33321e-05C40.6992 -0.0040574 45.3838 0.924106 49.7551 2.73145C54.1264 4.5388 58.0987 7.18989 61.4449 10.5332C64.7911 13.8765 67.4456 17.8465 69.2567 22.2162C71.0678 26.586 72 31.2698 72 36Z" fill="#EFF5FF"/>
             <path d="M19.0732 20.7139C19.7908 20.8717 19.0732 34.4132 19.0732 34.4132L16.7266 45.1057L17.1643 52.9995H54.7675C54.7675 52.9995 55.4851 45.0052 55.2052 45.1057C54.9253 45.2062 52.184 34.4132 52.184 34.4132L52.0979 20.7139H19.0732Z" fill="white"/>
@@ -97,56 +97,66 @@
 
 <Description.Root>
     <p>
-        Prepárate para vivir una experiencia inolvidable en San Diego, una ciudad vibrante donde la historia, la aventura y el entretenimiento se fusionan en cada rincón. Sus impresionantes playas, sus barrios llenos de cultura y su animada vida nocturna hacen de este destino un lugar ideal para todo tipo de viajeros. Ya sea que busques una escapada de fin de semana a San Diego o unas vacaciones más largas, siempre encontrarás algo fascinante por descubrir.
+        Préparez-vous à vivre une expérience inoubliable à San Diego, une ville dynamique où l’histoire, l’aventure et le divertissement se rejoignent à chaque coin de rue. Ses plages magnifiques, ses quartiers riches en culture et sa vie nocturne animée en font une destination idéale pour tous les types de voyageurs. Que vous recherchiez une escapade de fin de semaine à San Diego ou des vacances plus longues, vous trouverez toujours quelque chose de fascinant à découvrir.
         <br>
-        Desde el icónico Gaslamp Quarter, con su arquitectura histórica y bares de moda, hasta las aguas cristalinas de La Jolla Cove, donde puedes nadar junto a leones marinos, San Diego tiene un encanto inigualable. Sumérgete en la historia colonial de Old Town, donde las raíces hispanas de la ciudad cobran vida a través de su arquitectura, museos y restaurantes que ofrecen una de las mejores escenas gastronómicas mexicanas fuera de México. Luego, relájate en las espectaculares playas de Coronado y Pacific Beach, ideales para disfrutar del sol californiano y practicar deportes acuáticos.
+        Du célèbre quartier Gaslamp, avec son architecture historique et sa vie nocturne vibrante, aux eaux cristallines de La Jolla Cove, San Diego captive par son charme inégalé. Découvrez l’essence hispanique d’Old Town, où l’histoire prend vie à travers son architecture, ses musées et sa cuisine mexicaine exceptionnelle. Ensuite, détendez-vous sur les plages superbes de Coronado et de Pacific Beach, parfaites pour profiter du soleil et des sports nautiques.
         <br>
-        Copa Airlines te lleva a San Diego con vuelos cómodos y eficientes desde Panamá, conectándote con lo mejor de California. Aprovecha las ofertas de vuelos a San Diego y vuela desde el Hub de las Américas® con la aerolínea más puntual de la región. ¡Es el momento de planear tu próxima aventura y descubrir todo lo que San Diego tiene para ofrecer!
+        Avec 112 kilomètres de côte, un climat ensoleillé toute l’année et une ambiance détendue, San Diego est l’une des destinations les plus attractives des États-Unis. La ville allie culture, histoire et nature, offrant des expériences pour tous les types de voyageurs.
         <br>
-
+        San Diego abrite également des sites emblématiques tels que Balboa Park, le plus grand parc culturel urbain du pays, qui accueille 18 musées, de somptueux jardins et le célèbre zoo de San Diego. À quelques minutes seulement, le Gaslamp Quarter, considéré comme le cœur du divertissement de la ville, allie histoire, vie nocturne et gastronomie dynamique, tandis que Barrio Logan se distingue comme un épicentre culturel et culinaire, où les racines hispaniques de la ville s’expriment à travers une offre artistique captivante et une gastronomie mexicaine authentique et variée. De plus, San Diego est réputée pour ses brasseries locales, où vous pouvez déguster une large sélection de bières artisanales de grande renommée.
+        <br>
+        Si vous êtes amateur d’aventure, la ville propose un large éventail d’activités de plein air. Profitez du surf, du kayak ou de balades en bateau à Mission Bay, explorez les falaises de Torrey Pines ou partez à l’aventure dans les paysages montagneux et désertiques à l’est du comté.
+        <br>
+        San Diego a quelque chose à offrir à chacun : histoire, culture, nature et une énergie vibrante, faisant de cette ville le lieu parfait pour une escapade mémorable. Copa Airlines vous emmène à San Diego avec des vols abordables, confortables et pratiques depuis Panama, avec 4 vols par semaine les lundis, mercredis, vendredis et dimanches, vous reliant au meilleur de la Californie à partir du 25 juin 2025. Profitez des offres de vols vers San Diego et décollez depuis le Hub des Amériques® avec la compagnie aérienne la plus ponctuelle de la région. Il est temps de planifier votre prochaine aventure et de découvrir tout ce que San Diego a à offrir !
+</p>
 </Description.Root>
 
 <Activities.Root>
     <Activities.Title>
-        ¿Qué hacer en San Diego?
+        Que faire à San Diego ?
     </Activities.Title>
     <Activities.Activities>
         <Activities.Activity
-        title="Relájate en las mejores playas de San Diego"
-        description="Las playas de San Diego son uno de sus mayores atractivos. Desde la elegante Coronado Beach, con su icónico hotel y arena dorada, hasta las animadas Pacific Beach y Mission Beach, donde surfistas y turistas disfrutan del sol y las olas. Si prefieres un ambiente más natural, La Jolla Cove te espera con aguas turquesas ideales para el snorkel, el kayak y la observación de leones marinos."
-        image="82b5a3ad-ebc5-4224-bf4c-288bba064e96"
-        alt="Museo de Ciencias Naturales de Carolina del Norte en Raleigh"
+        title="Profitez des plages et des activités de plein air à San Diego"
+        description="San Diego est un paradis côtier avec des plages pour tous les goûts. Si vous recherchez une atmosphère détendue et des eaux cristallines, La Jolla Cove vous émerveillera par sa beauté naturelle et la possibilité de nager aux côtés des lions de mer. Pour une journée de soleil et de divertissement, Mission Beach et Pacific Beach offrent une ambiance festive avec des promenades en bord de mer, du surf et des sports de plage. Coronado Beach, avec son sable doré et l’emblématique Hotel del Coronado, est parfaite pour une escapade tranquille. Et si vous êtes amateur de randonnée, Torrey Pines allie plages spectaculaires et sentiers panoramiques le long des falaises."
+        image="7b915521-928f-4ac9-9cd7-c4b4b113d347"
+        alt="Profitez des plages et des activités de plein air à San Diego"
         />
+
+       
         <Activities.Activity
-        title="Disfruta la vida nocturna en Gaslamp Quarter"
-        description="Al caer la noche, el Gaslamp Quarter cobra vida con su vibrante escena nocturna. Este distrito histórico ofrece desde sofisticados rooftops con vistas panorámicas hasta bares con música en vivo y exclusivos clubes nocturnos. Disfruta de cócteles artesanales en lugares como The Nolen, baila al ritmo de DJ internacionales en OMNIA San Diego o sumérgete en el ambiente único de los bares clandestinos como Noble Experiment."
-        image="d77a9808-c571-4df2-8831-f7a82f811f1d"
-        alt="Distrito Americano en Raleigh"
-        />
-        <Activities.Activity
-        title="Explora las actividades en La Jolla Cove"
-        description="Para quienes buscan una conexión con la naturaleza, La Jolla Cove es el lugar perfecto. Sus impresionantes acantilados y aguas cristalinas te invitan a practicar snorkel junto a peces de colores y leones marinos, recorrer el Coastal Walk Trail con vistas de ensueño o simplemente relajarte en Ellen Browning Scripps Park mientras contemplas una de las mejores puestas de sol de California."
-        image="4637a46e-33d5-4c85-924f-9c02ef7c7ce8"
-        alt="Distrito Americano en Raleigh"
+        title="Découvrez le paradis du shopping"
+        description="San Diego est une destination idéale pour les amateurs de shopping, avec des options allant des boutiques exclusives aux magasins d’usine offrant des réductions incroyables. La ville offre une large gamme de magasins de luxe, parfaits pour ceux qui recherchent les dernières tendances en matière de mode et d’accessoires. Pour ceux qui préfèrent des prix abordables sans compromis sur la qualité, les magasins d'usine proposent d’importantes remises sur des marques renommées. De plus, certaines zones commerçantes se distinguent par leur charme unique, où vous pouvez trouver des produits artisanaux, des souvenirs originaux et une mode alternative dans une ambiance captivante."
+        image="f135a95b-d9c4-4f63-b7a3-bbdfefd10a05"
+        alt="Découvrez le paradis du shopping"
         />
 
         <Activities.Activity
-        title="Viaja en el tiempo con los tours en Old Town San Diego"
-        description="Si quieres viajar en el tiempo, Old Town San Diego te transportará a los orígenes de California con sus calles empedradas, edificios coloniales y deliciosa gastronomía mexicana. Explora el Parque Histórico Estatal, visita la Casa de Estudillo o disfruta de un recorrido de fantasmas por la famosa Casa Whaley, considerada una de las más embrujadas de Estados Unidos."
-        image="10927a6f-9622-48b0-b431-67e844cddc20"
-        alt="Distrito Americano en Raleigh"
+        title="Partez à la découverte d’aventures et d’attractions emblématiques"
+        description="De l’émotion des parcs à thème à l’immersion dans la nature, San Diego offre des options pour chaque aventurier. La ville possède des paysages côtiers spectaculaires et de vastes espaces naturels propices à la randonnée, au vélo et à diverses activités de plein air. Pour une expérience unique au contact de la vie sauvage, elle abrite des zoos et des parcs safari permettant d’observer de près des animaux exotiques. Pour les passionnés d’histoire navale, San Diego abrite un musée flottant, où un porte-avions authentique accueille des expositions interactives. Dans le Gaslamp Quarter, l'histoire et le divertissement se rencontrent dans un quartier animé, où se mêlent bâtiments victoriens, théâtres et bars à l’ambiance festive. Balboa Park, le cœur culturel de la ville, abrite de magnifiques jardins ainsi que des musées d’art, de science et d’histoire, dont le célèbre San Diego History Museum, qui retrace l’évolution de la ville depuis ses racines hispaniques jusqu'à nos jours."
+        image="9110622f-3838-4f97-b6f8-27990048f89c"
+        alt="d’aventures et d’attractions emblématiques"
         />
+
+        <Activities.Activity
+        title="Découvrez la diversité gastronomique de San Diego"
+        description="San Diego est une ville où la gastronomie reflète son mélange de cultures. À Barrio Logan, l’art de rue et la cuisine mexicaine se rencontrent dans un quartier animé où vous pouvez déguster des tacos, des fruits de mer et des plats inspirés des racines hispaniques de la ville. Little Italy offre une ambiance envoûtante avec des trattorias authentiques et des festivals gastronomiques, tandis que North Park est la destination idéale pour les amateurs de cuisine innovante et de brunch. Si vous recherchez des saveurs asiatiques, le Convoy District est un véritable paradis du ramen, des dumplings et du barbecue coréen. Enfin, pour les passionnés de bière artisanale, San Diego possède l’une des traditions brassicoles les plus riches du pays, avec des brasseries locales où vous pouvez déguster une grande variété de styles et de saveurs."
+        image="c9f02743-64f9-4daa-b10a-e4b33d0adca2"
+        alt="diversité gastronomique de San Diego"
+        />
+
+    
 
         
         
     </Activities.Activities>
 </Activities.Root>
 
-<Touring.Root image='8670f9f3-5091-4fc8-85e8-a370c5d1f84a'>
-    <Touring.Title>Recorriendo San Diego</Touring.Title>
+<Touring.Root image='0ee5f917-a3f0-4980-8291-0bff15552c44'>
+    <Touring.Title>Explorez San Diego</Touring.Title>
             <Touring.Description>
-            <p>Nuestros vuelos hacia el Aeropuerto Internacional de San Diego (SAN) salen desde el Hub de las Américas® en Panamá, con opciones de conexión convenientes y cómodas. Desde el aeropuerto, el centro de San Diego está a solo 6 km, facilitando el acceso a sus principales atracciones. Si deseas explorar más allá, Los Ángeles se encuentra a 190 km (unas 2 horas en automóvil) y San Francisco a 800 km (aproximadamente 8 horas en auto), permitiéndote ampliar tu aventura por California.</p>
-            <p>El sistema de transporte en San Diego es eficiente y variado. Puedes optar por el tranvía, autobuses o incluso alquilar un auto en copa.com para recorrer la ciudad a tu ritmo. Ya sea que busques playas, cultura o diversión, San Diego es un destino que te sorprenderá en cada rincón. ¡Reserva tus vuelos a San Diego con Copa Airlines y prepárate para vivir una escapada inolvidable en la costa californiana!</p>
+            <p>Nos vols à destination de l’aéroport international de San Diego (SAN) partent depuis le Hub des Amériques® à Panama, avec des options de correspondance pratiques et confortables. Depuis l’aéroport, le centre-ville de San Diego n’est qu’à 6 km, ce qui permet d'accéder facilement à ses principales attractions. Si vous souhaitez explorer au-delà, Los Angeles se trouve à 190 km (environ 2 heures en voiture) et San Francisco à 800 km (environ 8 heures de route), ce qui vous permet de prolonger votre aventure en Californie.</p>
+            <p>Le système de transport à San Diego est efficace et varié. Vous pouvez prendre le tramway, les bus ou même louer une voiture sur copa.com pour vous déplacer librement dans la ville. Que ce soit pour ses plages, sa culture ou sa vie animée, San Diego ne manquera pas de vous surprendre. Réservez vos vols pour San Diego avec Copa Airlines et préparez-vous à vivre une escapade inoubliable sur la côte californienne!</p>
             </Touring.Description>
 </Touring.Root>
 

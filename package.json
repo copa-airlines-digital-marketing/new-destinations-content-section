@@ -5,6 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && tailwindcss -i ./src/app.css -o ./dist/destinations-sections-styles.css --minify",
+		"san": "vite build && tailwindcss -i ./src/app.css -o ./dist/SAN-destinations-sections-styles.css --minify",
 		"preview": "vite preview",
 		"test": "npm run test:integration && npm run test:unit",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",

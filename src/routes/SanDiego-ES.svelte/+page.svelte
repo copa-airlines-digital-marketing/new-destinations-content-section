@@ -6,9 +6,9 @@
     import * as Touring from "$lib/components/TouringSection";
 </script>
 
-<Header.Root image='53eaa676-56c4-486c-901b-14428c0257d0'>
-    <Header.Title>Raleigh-Durham</Header.Title>
-    <Header.Description>¡Bienvenidos a Raleigh-Durham, también conocido como el “Triángulo de la Investigación”! ¡La ciudad donde la historia, la cultura vibrante y la autenticidad culinaria se entrelazan para ofrecerte una experiencia inolvidable! Explora estas ciudades cautivadoras en Carolina del Norte, Estados Unidos.</Header.Description>
+<Header.Root image='7cd566e5-c0f2-4aed-bb78-55cb33b9bd8d'>
+    <Header.Title>San Diego</Header.Title>
+    <Header.Description>¡Bienvenidos a San Diego, la joya de la costa del Pacífico! Con su clima soleado todo el año, playas espectaculares y una vibrante vida cultural, esta ciudad californiana te invita a descubrir su encanto inigualable. Desde La Jolla Cove hasta el histórico Old Town, San Diego es el destino ideal para una escapada inolvidable.</Header.Description>
 </Header.Root>
 
 <Details.Root>
@@ -33,7 +33,7 @@
                 </svg>
         </Details.Detail>
        
-        <Details.Detail detailTitle='Población' detailDescription='+576 mil'>
+        <Details.Detail detailTitle='Población' detailDescription='+1.3 millones'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -45,7 +45,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Zona Horaria' detailDescription='UTC -5 horas'>
+        <Details.Detail detailTitle='Tiempo' detailDescription='UTC -8 horas'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -57,7 +57,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Vuelos' detailDescription='Cuatro frecuencias semanales' detailURLText='Ver Vuelos' detailURL='https://www.copaair.com/es-gs/flight-status-v1/' >
+        <Details.Detail detailTitle='Vuelos' detailDescription='Cuatro frecuencias semanales' detailURLText='Ver Vuelos' detailURL='https://www.copaair.com/es-gs/flight-status/' >
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M49.3859 28.6116C52.2903 28.517 54.4714 30.9578 54.6818 32.4202C54.8747 33.8804 53.0216 34.1096 51.5769 34.3273L23.0314 38.436C22.2567 38.5384 21.6076 37.1838 21.2907 36.4446L18.7138 30.2922C18.4778 29.7605 18.8201 29.1381 19.3963 29.0652L19.992 28.9767C20.5507 28.9017 21.0943 29.0941 21.4896 29.4838L23.9617 32.014L32.9291 30.7268L28.0386 18.3202L30.4407 16.8104L41.3946 29.4857L49.3859 28.6116Z" fill="white"/>
@@ -69,7 +69,7 @@
                 </svg>
         </Details.Detail>
         
-        <Details.Detail detailTitle='Clima' detailDescription='23 °C en verano / 2 °C en invierno'>
+        <Details.Detail detailTitle='Clima' detailDescription='4 °C en verano / 10 °C en invierno'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M19 22V51C19 53.7614 21.2386 56 24 56H41.1716C41.702 56 42.2107 55.7893 42.5858 55.4142L48.5 49.5L54.4142 43.5858C54.7893 43.2107 55 42.702 55 42.1716V22C55 20.8954 54.1046 20 53 20H51H48H31H28H21C19.8954 20 19 20.8954 19 22Z" fill="white"/>
@@ -79,7 +79,7 @@
         </Details.Detail>
     
         <Details.Detail 
-        detailTitle='Hoteles' detailDescription='Buscar Hoteles Operado por' detailURLText='Booking.com' detailURL='http://www.w3.org/2000/svg' >
+        detailTitle='Hoteles' detailDescription='Buscar Hoteles Operado por' detailURLText='Booking.com' detailURL='https://www.booking.com/city/us/san-diego.es.html?aid=811211&no_rooms=1&group_adults=1&label=copaair-destinationsguide-cityfacts' >
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 43.1188 69.8894 50.0778 65.9351 55.9973C61.9807 61.9168 56.3601 66.531 49.7838 69.2567C43.2074 71.9823 35.9706 72.6971 28.9881 71.3105C22.0057 69.924 15.591 66.4984 10.5551 61.4668C5.5192 56.4352 2.08809 50.0235 0.695527 43.0422C-0.697037 36.061 0.0114643 28.8235 2.73147 22.2449C5.45147 15.6662 10.0609 10.0416 15.9769 6.08216C21.893 2.12271 28.8502 0.00613967 35.969 1.33321e-05C40.6992 -0.0040574 45.3838 0.924106 49.7551 2.73145C54.1264 4.5388 58.0987 7.18989 61.4449 10.5332C64.7911 13.8765 67.4456 17.8465 69.2567 22.2162C71.0678 26.586 72 31.2698 72 36Z" fill="#EFF5FF"/>
             <path d="M19.0732 20.7139C19.7908 20.8717 19.0732 34.4132 19.0732 34.4132L16.7266 45.1057L17.1643 52.9995H54.7675C54.7675 52.9995 55.4851 45.0052 55.2052 45.1057C54.9253 45.2062 52.184 34.4132 52.184 34.4132L52.0979 20.7139H19.0732Z" fill="white"/>
@@ -97,59 +97,68 @@
 
 <Description.Root>
     <p>
-        Prepárate para desvelar un viaje fascinante a través de los museos y vecindarios como Oakwood en Raleigh, donde cada rincón tiene una historia que contar. Explora los distritos históricos y vecindarios animados de Durham, como Ninth Street y Brightleaf Square, en un recorrido fascinante. En cada rincón de Durham, descubrirás una historia rica y cautivadora. Estamos emocionados de que seas parte de la originalidad y vitalidad que define estas dos ciudades.
+        ¡Bienvenidos a San Diego, la joya de la costa del Pacífico! Con su clima soleado todo el año, playas espectaculares y una vibrante vida cultural, esta ciudad californiana te invita a descubrir su encanto inigualable. Desde La Jolla Cove hasta el histórico Old Town, San Diego es el destino ideal para una escapada inolvidable.
         <br>
-        La escena nocturna de Raleigh-Durham está llena de vitalidad y entusiasmo. Desde bares animados con música en vivo hasta clubes nocturnos en el centro de la ciudad, hay alternativas para cada preferencia. ¿Te gustaría experimentar el encanto de la samba en un club cercano o pasar una noche tranquila en un bar con vistas increibles? En Raleigh-Durham, las oportunidades son ilimitadas. 
+        Desde el icónico Gaslamp Quarter, con su arquitectura histórica y vibrante vida nocturna, hasta las aguas cristalinas de La Jolla Cove, San Diego cautiva con su encanto inigualable. Descubre la esencia hispana de Old Town, donde la historia cobra vida a través de su arquitectura, museos y una destacada escena gastronómica mexicana. Luego, relájate en las espectaculares playas de Coronado y Pacific Beach, perfectas para disfrutar del sol y los deportes acuáticos.
         <br>
-    Ahora, déjate llevar por un viaje culinario auténtico. Desde las clásicas barbacoas del sur hasta las innovadoras creaciones, la diversidad culinaria de Raleigh-Durham refleja la riqueza y la autenticidad de la región. Cada bocado cuenta una historia, y estamos aquí para que escribas tu propio capítulo en esta deliciosa travesía.
+        Con 112 kilómetros de costa, un clima soleado todo el año y un ambiente relajado, San Diego es uno de los destinos más atractivos de Estados Unidos. La ciudad combina cultura, historia y naturaleza, ofreciendo experiencias para todo tipo de viajeros. 
         <br>
-    ¡Prepárate para explorar los sabores vibrantes, la diversión y la cultura de Raleigh-Durham! Reserva tus vuelos a Raleigh-Durham y vuela desde el Hub de las Americas® en Panamá con Copa Airlines, la aerolínea más puntual. Descubre el "Triángulo de la Investigación" con experiencias únicas y momentos inolvidables.
-
+        San Diego también es hogar de espacios icónicos como Balboa Park, el parque cultural urbano más grande del país, que alberga 18 museos, jardines exuberantes y el renombrado zoológico de San Diego. A pocos minutos, el Gaslamp Quarter, considerado el corazón del entretenimiento en San Diego, combina historia, vida nocturna y una vibrante escena gastronómica, mientras que Barrio Logan destaca como un epicentro cultural y gastronómico, donde las raíces hispanas de la ciudad se reflejan en su vibrante escena artística y su variada oferta de comida mexicana. Además, San Diego es conocida por sus cervecerías locales, donde puedes disfrutar de una amplia selección de cervezas artesanales de gran reconocimiento. 
+        <br>
+        Si eres amante de la aventura, la ciudad ofrece un sinfín de actividades al aire libre. Disfruta del surf, kayak o paseos en bote en Mission Bay, explora los acantilados de Torrey Pines o aventúrate en los paisajes montañosos y desérticos del este del condado. 
+        <br>
+        San Diego tiene algo para todos: historia, cultura, naturaleza y una energía vibrante que la convierte en el destino ideal para una escapada inolvidable. 
+        <br>
+        Copa Airlines te lleva a San Diego con vuelos baratos, cómodos y convenientes desde Panamá, con 4 vuelos semanales, los lunes, miércoles, viernes y domingo conectándote con lo mejor de California a partir del 25 de junio del 2025. Aprovecha las ofertas de vuelos a San Diego y vuela desde el Hub de las Américas® con la aerolínea más puntual de la región. ¡Es el momento de planear tu próxima aventura y descubrir todo lo que San Diego tiene para ofrecer! 
+</p>
 </Description.Root>
 
 <Activities.Root>
     <Activities.Title>
-        ¿Qué hacer en Baltimore?
+        ¿Qué hacer en San Diego?
     </Activities.Title>
     <Activities.Activities>
         <Activities.Activity
-        title="Explora el Museo de Ciencias Naturales de Carolina del Norte en Raleigh"
-        description="Conoce el fascinante mundo de la ciencia y la naturaleza en este museo interactivo. Con exhibiciones cautivadoras, eventos educativos y un planetario, el Museo de Ciencias Naturales es ideal para visitantes de todas las edades. Descubre la diversidad biológica, aprende sobre la historia natural y participa en experiencias prácticas que harán que tu visita sea inolvidable."
-        image="357da23d-4609-438d-bf4a-cb4edeec53c6"
-        alt="Museo de Ciencias Naturales de Carolina del Norte en Raleigh"
+        title="Disfruta de las playas y actividades al aire libre en San Diego "
+        description="San Diego es un paraíso costero con playas para todos los gustos. Si buscas un ambiente relajado y aguas cristalinas, La Jolla Cove te sorprenderá con su belleza natural y la oportunidad de nadar junto a leones marinos. Para un día de sol y diversión, Mission Beach y Pacific Beach ofrecen un ambiente vibrante con paseos frente al mar, surf y deportes de playa. Coronado Beach, con su arena dorada y el emblemático Hotel del Coronado, es perfecta para una escapada tranquila. Y si eres amante del senderismo, Torrey Pines combina playas impresionantes con rutas escénicas en los acantilados. "
+        image="7b915521-928f-4ac9-9cd7-c4b4b113d347"
+        alt="Disfruta de las playas y actividades al aire libre en San Diego"
         />
+
+       
         <Activities.Activity
-        title="Recorre el Distrito Americano en Raleigh"
-        description="Disfruta de la animada escena urbana y cultural en el Distrito Americano de Raleigh. Este bullicioso vecindario alberga una variedad de tiendas de moda, restaurantes eclécticos y galerías de arte. Pasea por las calles adoquinadas, explora boutiques locales y saborea la deliciosa oferta gastronómica en este vibrante rincón de la ciudad."
-        image="da933452-4be7-4b96-ba4c-8f2f0e03a31a"
-        alt="Distrito Americano en Raleigh"
-        />
-        <Activities.Activity
-        title="Visita el Museo de Arte de Carolina del Norte y los Jardines Sarah P. Duke en Durham"
-        description="Embárcate en un viaje artístico y natural en Durham. El Museo de Arte de Carolina del Norte ofrece una impresionante colección de obras que abarcan desde el antiguo Egipto hasta el arte contemporáneo. Después, dirígete a los Jardines Sarah P. Duke para disfrutar de una serena experiencia al aire libre. Con extensos jardines, senderos pintorescos y estanques tranquilos, este lugar es perfecto para relajarse y disfrutar de la naturaleza."
-        image="da933452-4be7-4b96-ba4c-8f2f0e03a31a"
-        alt="Distrito Americano en Raleigh"
+        title="Descubre el paraíso de las compras"
+        description="San Diego es un destino ideal para los amantes de las compras, con opciones que van desde boutiques exclusivas hasta outlets con descuentos increíbles. La ciudad ofrece una amplia variedad de tiendas de lujo, perfectas para quienes buscan las últimas tendencias en moda y accesorios. Para quienes prefieren precios accesibles sin sacrificar calidad, los outlets cuentan con grandes descuentos en marcas reconocidas. Además, hay zonas comerciales con un encanto especial, donde puedes encontrar productos artesanales, souvenirs únicos y moda alternativa en un ambiente vibrante."
+        image="f135a95b-d9c4-4f63-b7a3-bbdfefd10a05"
+        alt="Descubre el paraíso de las compras"
         />
 
         <Activities.Activity
-        title="Visita el Museo de Arte de Carolina del Norte y los Jardines Sarah P. Duke en Durham"
-        description="Embárcate en un viaje artístico y natural en Durham. El Museo de Arte de Carolina del Norte ofrece una impresionante colección de obras que abarcan desde el antiguo Egipto hasta el arte contemporáneo. Después, dirígete a los Jardines Sarah P. Duke para disfrutar de una serena experiencia al aire libre. Con extensos jardines, senderos pintorescos y estanques tranquilos, este lugar es perfecto para relajarse y disfrutar de la naturaleza."
-        image="da933452-4be7-4b96-ba4c-8f2f0e03a31a"
-        alt="Distrito Americano en Raleigh"
+        title="Explora la aventura y las atracciones icónicas"
+        description="Desde la emoción de los parques temáticos hasta el contacto con la naturaleza, San Diego tiene opciones para todos los aventureros. La ciudad ofrece increíbles paisajes costeros y espacios naturales ideales para caminatas, ciclismo y actividades al aire libre. Para una experiencia inolvidable con la vida salvaje, cuenta con zoológicos y parques de safari que permiten encuentros cercanos con animales exóticos. Para los apasionados de la historia naval, San Diego alberga un museo flotante donde puedes explorar un portaaviones real con exhibiciones interactivas. En el Gaslamp Quarter, la historia se mezcla con el entretenimiento en un distrito lleno de edificios victorianos, teatros y bares con un ambiente animado. Balboa Park, el corazón cultural de la ciudad, alberga impresionantes jardines, museos de arte, ciencia e historia, y el famoso San Diego History Museum, que narra la evolución de la ciudad desde sus raíces hispanas hasta la actualidad."
+        image="9110622f-3838-4f97-b6f8-27990048f89c"
+        alt="Explora la aventura y las atracciones icónicas"
         />
+
+        <Activities.Activity
+        title="Descubre la diversidad gastronómica de San Diego"
+        description="San Diego es una ciudad donde la gastronomía refleja su mezcla de culturas. En Barrio Logan, el arte callejero y la comida mexicana se fusionan en un barrio vibrante donde puedes probar tacos, mariscos y platillos inspirados en las raíces hispanas de la ciudad. Little Italy ofrece un ambiente encantador con trattorias auténticas y festivales gastronómicos, mientras que North Park es el destino ideal para los amantes de la cocina innovadora y el brunch. Si buscas sabores asiáticos, el Convoy District es un paraíso de ramen, dumplings y barbacoa coreana. Y para los aficionados a la cerveza artesanal, San Diego cuenta con una de las escenas cerveceras más importantes del país, con cervecerías locales, donde puedes degustar una gran variedad de estilos y sabores."
+        image="c9f02743-64f9-4daa-b10a-e4b33d0adca2"
+        alt="Descubre la diversidad gastronómica de San Diego"
+        />
+
+    
 
         
         
     </Activities.Activities>
 </Activities.Root>
 
-<Touring.Root image='da933452-4be7-4b96-ba4c-8f2f0e03a31a'>
-    <Touring.Title>Recorriendo Baltimore</Touring.Title>
+<Touring.Root image='0ee5f917-a3f0-4980-8291-0bff15552c44'>
+    <Touring.Title>Recorriendo San Diego</Touring.Title>
             <Touring.Description>
-            <p>Nuestros vuelos hacia el Aeropuerto Internacional de Austin-Bergstrom (AUS), salen desde el Hub de las Américas® en Panamá</p>
-           
-            Aprovecha tu viaje con cuatro frecuencias semanales para vuelos a Austin con Copa Airlines, haciendo que tu llegada a este destino sea conveniente.
-            <p>El sistema de transporte público y privado en Austin es muy completo y accesible. Podrás salir fácilmente del aeropuerto desde cualquiera de los medios de transporte oficiales de la ciudad: te podrás trasladar en autobús o con la eficiente red de metro de Austin. Si prefieres total independencia, puedes recorrer la ciudad en bicicleta o alquila tu auto en copa.com y prepárate para comenzar la aventura.</p>
+            <p>Nuestros vuelos hacia el Aeropuerto Internacional de San Diego (SAN) salen desde el Hub de las Américas® en Panamá, con opciones de conexión convenientes y cómodas. Desde el aeropuerto, el centro de San Diego está a solo 6 km, facilitando el acceso a sus principales atracciones. Si deseas explorar más allá, Los Ángeles se encuentra a 190 km (unas 2 horas en automóvil) y San Francisco a 800 km (aproximadamente 8 horas en auto), permitiéndote ampliar tu aventura por California.</p>
+            <p>El sistema de transporte en San Diego es eficiente y variado. Puedes optar por el tranvía, autobuses o incluso alquilar un auto en copa.com para recorrer la ciudad a tu ritmo. Ya sea que busques playas, cultura o diversión, San Diego es un destino que te sorprenderá en cada rincón. ¡Reserva tus vuelos a San Diego con Copa Airlines y prepárate para vivir una escapada inolvidable en la costa californiana! </p>
             </Touring.Description>
 </Touring.Root>
 

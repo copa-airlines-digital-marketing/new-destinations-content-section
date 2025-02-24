@@ -6,7 +6,7 @@
     <slot></slot>
       
 
-    <picture class=" block sm:aspect-[21_/_9] pt-6">
+    <picture class=" block sm:aspect-[18_/_9] pt-6">
     <source media="(min-width: 1367px)" srcset="https://cm-marketing.directus.app/assets/{image}" sizes="">
     <source media="(min-width: 960px)" srcset="https://cm-marketing.directus.app/assets/{image}" sizes="">
     <source media="(min-width: 600px)" srcset="https://cm-marketing.directus.app/assets/{image}" sizes="">
