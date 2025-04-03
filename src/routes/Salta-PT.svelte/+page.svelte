@@ -6,13 +6,13 @@
     import * as Touring from "$lib/components/TouringSection";
 </script>
 
-<Header.Root image='1bc61864-7156-4c9c-b5b3-2938cfc4d541'>
-    <Header.Title>Descubre San Miguel de Tucumán: Historia, Naturaleza y Cultura en el Norte Argentino</Header.Title>
-    <Header.Description>Ubicada en el corazón del noroeste argentino, la provincia de Tucumán es un destino lleno de historia, cultura y paisajes impresionantes. Conocida como el "Jardín de la República", esta región tiene una mezcla especial. Hay arquitectura colonial, naturaleza hermosa y lugares históricos.</Header.Description>
+<Header.Root image='d3b812ca-cb2e-4b44-ad77-9217ac6649cf'>
+    <Header.Title>Salta: História, natureza e aventura no coração do norte argentino</Header.Title>
+    <Header.Description>“Salta, tão linda que você vai se apaixonar por ela” é o slogan da promoção turística dessa província localizada no norte da Argentina, que o convida a explorar sua história, natureza e cultura em cada canto. Um destino caracterizado pela diversidade e beleza de suas paisagens, pela cordialidade de seu povo, pelo bom clima, pelos vinhedos e pela gastronomia, além de uma esplêndida oferta de hotéis, clubes, restaurantes e outros serviços turísticos.</Header.Description>
 </Header.Root>
 
 <Details.Root>
-    <Details.Title descriptionTitle="Datos Importantes">
+    <Details.Title descriptionTitle="Fatos Relevantes">
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
             <path d="M56.9995 36.085C56.9995 47.6829 47.5975 57.085 35.9995 57.085C24.4015 57.085 14.9995 47.6829 14.9995 36.085C14.9995 24.487 24.4015 15.085 35.9995 15.085C47.5975 15.085 56.9995 24.487 56.9995 36.085Z" fill="white"/>
@@ -33,7 +33,7 @@
                 </svg>
         </Details.Detail>
        
-        <Details.Detail detailTitle='Población' detailDescription='~1.7 millones '>
+        <Details.Detail detailTitle='População' detailDescription='+640 mil'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -45,7 +45,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Tiempo' detailDescription='UTC -3 horas'>
+        <Details.Detail detailTitle='Fuso horário' detailDescription='UTC -3 horas'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -57,7 +57,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Vuelos' detailDescription='Tres frecuencias semanales' detailURLText='Ver Vuelos' detailURL='https://www.copaair.com/es-gs/flight-status/' >
+        <Details.Detail detailTitle='Voos' detailDescription='Três frequências semanais' detailURLText='Ver Voos' detailURL='https://www.copaair.com/en-gs/flight-status/' >
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M49.3859 28.6116C52.2903 28.517 54.4714 30.9578 54.6818 32.4202C54.8747 33.8804 53.0216 34.1096 51.5769 34.3273L23.0314 38.436C22.2567 38.5384 21.6076 37.1838 21.2907 36.4446L18.7138 30.2922C18.4778 29.7605 18.8201 29.1381 19.3963 29.0652L19.992 28.9767C20.5507 28.9017 21.0943 29.0941 21.4896 29.4838L23.9617 32.014L32.9291 30.7268L28.0386 18.3202L30.4407 16.8104L41.3946 29.4857L49.3859 28.6116Z" fill="white"/>
@@ -69,7 +69,7 @@
                 </svg>
         </Details.Detail>
         
-        <Details.Detail detailTitle='Clima' detailDescription='25 a 40 °C en verano / 5 a 20 °C en invierno'>
+        <Details.Detail detailTitle='Clima' detailDescription='Quente. Verões acima de 20°C, invernos abaixo de 14°C.'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M19 22V51C19 53.7614 21.2386 56 24 56H41.1716C41.702 56 42.2107 55.7893 42.5858 55.4142L48.5 49.5L54.4142 43.5858C54.7893 43.2107 55 42.702 55 42.1716V22C55 20.8954 54.1046 20 53 20H51H48H31H28H21C19.8954 20 19 20.8954 19 22Z" fill="white"/>
@@ -79,7 +79,7 @@
         </Details.Detail>
     
         <Details.Detail 
-        detailTitle='Hoteles' detailDescription='Buscar Hoteles Operado por' detailURLText='Booking.com' detailURL='https://www.booking.com/city/ar/san-miguel-de-tucuman.en.html?aid=811211&label=copaair-destinationsguide-cityfacts&sid=f5fce31115908b33fb0c06544b707ef0&lang=en' >
+        detailTitle='Hotéis' detailDescription='Encontre hotéis com' detailURLText='Booking.com' detailURL='https://www.booking.com/city/ar/salta.pt-br.html?aid=811211&label=copaair-destinationsguide-cityfacts&sid=f5fce31115908b33fb0c06544b707ef0&lang=pt-br&soz=1&lang_click=other&cdl=en-us&lang_changed=1' >
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 43.1188 69.8894 50.0778 65.9351 55.9973C61.9807 61.9168 56.3601 66.531 49.7838 69.2567C43.2074 71.9823 35.9706 72.6971 28.9881 71.3105C22.0057 69.924 15.591 66.4984 10.5551 61.4668C5.5192 56.4352 2.08809 50.0235 0.695527 43.0422C-0.697037 36.061 0.0114643 28.8235 2.73147 22.2449C5.45147 15.6662 10.0609 10.0416 15.9769 6.08216C21.893 2.12271 28.8502 0.00613967 35.969 1.33321e-05C40.6992 -0.0040574 45.3838 0.924106 49.7551 2.73145C54.1264 4.5388 58.0987 7.18989 61.4449 10.5332C64.7911 13.8765 67.4456 17.8465 69.2567 22.2162C71.0678 26.586 72 31.2698 72 36Z" fill="#EFF5FF"/>
             <path d="M19.0732 20.7139C19.7908 20.8717 19.0732 34.4132 19.0732 34.4132L16.7266 45.1057L17.1643 52.9995H54.7675C54.7675 52.9995 55.4851 45.0052 55.2052 45.1057C54.9253 45.2062 52.184 34.4132 52.184 34.4132L52.0979 20.7139H19.0732Z" fill="white"/>
@@ -95,66 +95,83 @@
 
 </Details.Root>
 
-<Description.Root>  
-        <p>
-        Tucumán combina a la perfección su riqueza histórica con paisajes naturales sorprendentes, ofreciendo destinos únicos para todo tipo de viajeros.</p>
-<p>
-        Uno de los lugares más emblemáticos es Tafí del Valle, ubicado en los Valles Calchaquíes. Este destino es ideal para quienes buscan ecoturismo y actividades al aire libre como senderismo y cabalgatas. Sus paisajes montañosos, el aire puro y la tranquilidad lo convierten en un lugar perfecto para desconectarse de la rutina.</p>
-        <br>
-        <p> A pocos kilómetros, se encuentra Amaicha del Valle, un pueblo con una fuerte herencia cultural. Es hogar de la comunidad diaguita y es conocido por sus festivales tradicionales, donde se celebra la Pachamama, así como por el famoso Museo de la Pachamama, que expone la historia y el arte de los pueblos originarios de la región.</p>
-        <br>
-        <p>Para los amantes de la naturaleza y la aventura, San Pedro de Colalao es un destino imperdible. Rodeado de cerros y ríos, este pintoresco pueblo es ideal para realizar caminatas, paseos en bicicleta y explorar sus cavernas y cascadas. Es un destino perfecto para quienes buscan experiencias al aire libre y tranquilidad.</p>
-        <p>Otro sitio de gran atractivo es el Cerro San Javier, ubicado a pocos kilómetros de la ciudad de San Miguel de Tucumán. Este cerro ofrece senderos rodeados de una exuberante vegetación y miradores con vistas panorámicas de toda la región. Es una excelente opción para una escapada de un día, con actividades como parapente, caminatas y picnic en la montaña.</p>
-        <br>
-<p> Por último, no se puede dejar de mencionar Tafí Viejo, una ciudad con una fuerte identidad ferroviaria. Conocida por ser un centro de talleres ferroviarios en Argentina, hoy es un lugar ideal. Aquí puedes aprender sobre la historia del ferrocarril en el país. También puedes disfrutar de un recorrido por sus antiguas instalaciones. Estas forman parte del patrimonio cultural de la provincia.</p>
-           
-            <p>
-                Estos sitios fueron importantes para la historia de la República Argentina. Desde su vibrante capital, San Miguel de Tucumán, hasta los hermosos Valles Calchaquíes, aquí hay muchas experiencias. Estas harán de tu viaje una aventura inolvidable.
-                
-            </p>
-            <br>
-            <p>
-                Si estás planeando viajar a Tucumán, Copa Airlines ofrece vuelos cómodos y convenientes hacia este destino, conectándote desde el Hub de las Américas® en Panamá. Reserva hoy tus vuelos a Tucumán y comienza a descubrir sus maravillas.
-                
-            </p>
+
+<Description.Root>
+    <p>
+        Se estiver procurando por voos confortáveis e acessíveis, a Copa Airlines conecta você a Salta por meio do Hub das Américas® no Panamá, proporcionando fácil acesso a um dos destinos mais fascinantes da Argentina.
+    </p>
+    <br>
+    <p>
+        No centro da cidade, você encontrará a Catedral Basílica de Salta. Esse monumento histórico é muito importante. Sua arquitetura do século XIX mostra o esplendor da era colonial. Além disso, você pode visitar os museus de Salta.
+        </p>
+    <br>
+    <p>
+        Um deles é o Museu de Arqueologia de Alta Montanha. Lá você encontrará as famosas múmias incas de Llullaillaco. Essa é uma das descobertas mais importantes da região.
+        </p>
+    <br>
+    <p>    
+        Se estiver se perguntando o que fazer em Salta, há muitos lugares interessantes. Você pode ir à Plaza 9 de Julio. Lá você pode ver os pontos turísticos de Salta. Um deles é o Monumento a Martin Miguel de Güemes. Você também pode visitar a Igreja de São Francisco, conhecida por sua arquitetura colonial. Você também pode aprender sobre a história do povo nativo e as tradições da região.
+        </p>
+    
+    <br>
+    <p>    
+        Desde o famoso Trem das Nuvens, que chega a 4.220 metros acima do nível do mar, até os Vales Calchaquíes, a região oferece um cenário de tirar o fôlego. No caminho, não deixe de passar por Antonio de los Cobres, um pitoresco vilarejo montanhoso que o deixará sem fôlego com suas vistas panorâmicas. Se você está se perguntando qual é a melhor época para visitar Salta, a resposta depende do que você está procurando. Entretanto, o clima ameno e seco da primavera e do outono é ideal. Você poderá desfrutar de todas as atividades ao ar livre.
+        </p>
+    <br>
+    <p>    
+        Turismo em Salta significa aventura e natureza. Isso se reflete em lugares como a Quebrada de las Conchas, a Garganta del Diablo e o Dique Cabra Corral. O coração de Salta bate em sua Plaza 9 de Julio, onde estão localizados alguns dos edifícios mais emblemáticos da cidade. A arquitetura colonial de Salta é uma de suas principais características, oferecendo um passeio fascinante pelas ruas históricas da cidade.
+    </p>
+    <br>
+    <p>    
+        Salta é ideal para os amantes da natureza e de atividades ao ar livre. O Parque Nacional Los Cardones é perfeito para quem gosta de caminhadas e fotografia.
+    </p>
+    <br>
+    <p>    
+        Além disso, a Quebrada de las Conchas tem vistas incríveis e rochas únicas. A Garganta del Diablo (Garganta do Diabo) é uma das maravilhas naturais mais impressionantes da região. Não se esqueça de que a represa Cabra Corral também é ideal para praticar esportes aquáticos e outras atividades ao ar livre.
+    </p>
+    <br>
+    <p>    
+        Embora a Quebrada de Humahuaca esteja em Jujuy, ela fica próxima e é imperdível se você estiver viajando pelo norte da Argentina. Se já estiver pensando em viajar para Salta, você pode encontrar passagens aéreas baratas para Salta se reservar com antecedência e voar pelo Hub das Américas no Panamá®, com a principal companhia aérea da região, a Copa Airlines.
+    </p>
 
 </Description.Root>
 
 <Activities.Root>
     <Activities.Title>
-        ¿Qué hacer en San Miguel de Tucumán?
+        O que fazer em Salta?
     </Activities.Title>
     <Activities.Activities>
         <Activities.Activity
-        title="Explorar la historia y cultura"
-        description="Recorre la Casa Histórica de la Independencia, la Casa de Gobierno y la Plaza Independencia para conocer más sobre la historia argentina. Además, no te pierdas los museos en Tucumán. Puedes visitar el Museo Casa Padilla o el Museo Miguel Lillo. Allí aprenderás más sobre la cultura y la ciencia."
-        image="5ce60c4d-6835-44ac-9eb0-8d8e8a754a6b"
-        alt="Explorar la historia y cultura"
+        title="Explorando a história e a cultura"
+        description="A província preservou os traços de seu passado, e seu berço é a cidade de Salta, uma das mais bem preservadas da Argentina. Em seu centro, você encontrará a Catedral Basílica, um ícone do século XIX, juntamente com o histórico Cabildo, a Igreja de São Francisco e o Convento de São Bernardo. Sem dúvida, uma visita obrigatória é o Museu de Arqueologia de Alta Montanha (MAAM), onde estão expostos os “Filhos de Llullaillaco”, um dos achados arqueológicos mais importantes da cultura inca. Além disso, a cidade oferece uma cena cultural vibrante com peñas folclóricas, o Mercado Artesanal, a Orquestra Sinfônica e o Ballet Folklorico de la Provincia. Outra grande atração é o Teleférico de San Bernardo, que lhe permite desfrutar de vistas espetaculares da cidade das alturas, e o Delta Wing, que oferece a oportunidade de sobrevoar as paisagens de Salta em uma experiência única e cheia de adrenalina."
+        image="2f2a0a00-82c3-4070-8114-6975b3d7d69b"
+        alt="Explorando a história e a cultura em Salta"
         />
 
        
         <Activities.Activity
-        title="Disfrutar de la naturaleza y actividades al aire libre"
-        description="Los paisajes de Tucumán son ideales para quienes buscan aventura y contacto con la naturaleza. Visita el Cerro San Javier y recorre sus senderos o explora la biodiversidad en la Reserva Natural Aguas Chiquitas. También puedes hacer una escapada a San Pedro de Colalao o disfrutar de la tranquilidad de Amaicha del Valle."
-        image="f1b28c69-1eca-422c-89bb-09bca0a2ab6c"
-        alt="Disfrutar de la naturaleza y actividades al aire libre"
+        title="Desfrute das maravilhas da natureza e da aventura."
+        description="Salta é um paraíso natural que oferece uma combinação de paisagens que vão desde a selva exuberante até a imensidão da puna. Em toda a província, os vales, ravinas e colinas o convidam a viver experiências inesquecíveis, como rafting em seus rios, passeios em veículos com tração nas quatro rodas, trekking, montanhismo, mountain bike e canopy. Entre as atividades imperdíveis, destacam-se as seguintes: O Trem das Nuvens, uma das rotas ferroviárias mais altas do mundo, que sobe até 4.220 metros acima do nível do mar. Parque Nacional Los Cardones, com sua impressionante paisagem de cactos gigantes. A Quebrada de las Conchas, lar de formações geológicas únicas, como a Garganta del Diablo (Garganta do Diabo) e o Anfiteatro. A represa Cabra Corral, perfeita para esportes aquáticos e atividades ao ar livre."
+        image="00e3b330-39bd-49f0-be7f-5c6c86cf3953"
+        alt="Desfrute das maravilhas da natureza e da aventura."
         />
 
         <Activities.Activity
-        title="Aventurarse en los Valles Calchaquíes"
-        description="Un recorrido imperdible es por los Valles Calchaquíes, una región de montañas, viñedos y paisajes únicos. Tafí del Valle es uno de los destinos más visitados, ideal para desconectarse y disfrutar del aire puro del norte argentino."
-        image="a51df320-5ad6-4c16-ae10-1c4e5a6c0693"
-        alt="Aventurarse en los Valles Calchaquíes"
+        title="Explore a gastronomia local de Salta"
+        description="Salta é um destino gastronômico imperdível, onde a culinária do norte da Argentina é combinada com os incomparáveis vinhos de altitude. Empanadas salteñas, locro e tamales se destacam entre os sabores tradicionais, enquanto a Rota do Vinho percorre os Vales Calchaquíes, com mais de 20 vinícolas abertas ao público. Em cidades como Cafayate e Cachi, os visitantes podem degustar variedades de uvas emblemáticas, como Malbec, Cabernet Sauvignon e Torrontés, além de aprender sobre o processo artesanal de produção de vinho. Com paisagens de tirar o fôlego, história e uma rica tradição vinícola, Salta oferece uma experiência única para os amantes do enoturismo e da boa gastronomia. "
+        image="b0eb0b76-f58c-408a-94ae-785b443e3048"
+        alt="Explorar la gastronomía local de Salta"
         />
 
+       
         <Activities.Activity
-        title="Explorar la gastronomía local"
-        description="La provincia de Tucumán es famosa por su exquisita comida regional. No puedes irte sin probar las auténticas empanadas tucumanas, reconocidas como las mejores del país. Además, disfruta de platos tradicionales como el locro y la humita, acompañados de un buen vino de altura."
-        image="ec097a4f-7c3c-4479-90a3-e448bf22cb9b"
-        alt="Explorar la gastronomía local"
+        title="Passeios pela cidade de Salta"
+        description="A cidade de Salta é muito bem conectada, e o sistema de transporte público facilita o acesso às principais atrações turísticas da cidade. Do Aeroporto Internacional Martín Miguel de Güemes, você pode chegar rapidamente ao centro da cidade para começar sua aventura. Graças à sua localização estratégica e à sua infraestrutura turística, Salta é o local ideal para circuitos integrados que contemplam as paisagens mais espetaculares do norte da Argentina. A partir daqui, os viajantes podem descobrir o Vale de Lerma, os Vales Calchaquíes e outros destinos fascinantes da região."
+        image="ca25df87-5979-4b4b-9f3f-01f5a52f960e"
+        alt="Passeios pela cidade de Salta "
         />
 
-    
+
 
         
         
@@ -163,21 +180,15 @@
 
 
 
-<Touring.Root image='2bcc0046-3d2c-4b47-bec5-68f72c8d4b62'>
-    <Touring.Title>Mejor época para visitar Tucumán</Touring.Title>
-    <Touring.Description>
-    <p>El clima en Tucumán cambia según la región. La mejor época para visitar es en otoño y primavera.</p>
-    <p>Durante estas estaciones, las temperaturas son agradables. Además, el paisaje está en su máximo esplendor.</p>
-    <p>Si planeas viajar en fechas especiales, no te pierdas la celebración del 9 de julio. Ese día es la Independencia de Argentina. También recuerda el 24 de septiembre, cuando se conmemora la Batalla de Tucumán.</p>
-    <br>
-    </Touring.Description>
-    <Touring.Title>Cómo llegar a Tucumán</Touring.Title>
+<Touring.Root image='0ef5ada9-012e-4a24-8234-c22723eba959'>
+    <Touring.Title>Passeando por Salta</Touring.Title>
             <Touring.Description>
-            <p>Si estás buscando vuelos baratos a Tucumán, Copa Airlines ofrece excelentes opciones para viajar a la capital tucumana con conexiones desde distintas ciudades. Reserva hoy mismo tus boletos de avión a Tucumán y descubre este fascinante destino lleno de historia, cultura y naturaleza.</p>
-                <p>
-                Tucumán te espera con los brazos abiertos. ¡Empieza a planificar tu viaje y explora lo mejor del noroeste argentino!</p>
+            <p>Você pode usar o transporte público, um ônibus ou alugar um carro em Salta. Dessa forma, você pode explorar os arredores da província. Você pode visitar os Vales Calchaquíes, o Vale Lerma e a Quebrada de las Conchas.
+            </p><br>
+            <p>Reserve seu voo para Salta com a Copa Airlines e comece sua aventura em um dos lugares imperdíveis de Salta e descubra tudo o que Salta tem a oferecer!</p>
             </Touring.Description>
 </Touring.Root>
+
 
 
 

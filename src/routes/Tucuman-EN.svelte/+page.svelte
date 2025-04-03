@@ -7,12 +7,12 @@
 </script>
 
 <Header.Root image='1bc61864-7156-4c9c-b5b3-2938cfc4d541'>
-    <Header.Title>Descubre San Miguel de Tucumán: Historia, Naturaleza y Cultura en el Norte Argentino</Header.Title>
-    <Header.Description>Ubicada en el corazón del noroeste argentino, la provincia de Tucumán es un destino lleno de historia, cultura y paisajes impresionantes. Conocida como el "Jardín de la República", esta región tiene una mezcla especial. Hay arquitectura colonial, naturaleza hermosa y lugares históricos.</Header.Description>
+    <Header.Title>Discover San Miguel de Tucumán: History, Nature and Culture in Northern Argentina</Header.Title>
+    <Header.Description>Located in the heart of northwestern Argentina, the province of Tucumán is a destination full of history, culture and breathtaking landscapes. Known as the “Garden of the Republic”, this region has a special mix. There is colonial architecture, beautiful nature and historical sites.</Header.Description>
 </Header.Root>
 
 <Details.Root>
-    <Details.Title descriptionTitle="Datos Importantes">
+    <Details.Title descriptionTitle="Relevant facts">
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
             <path d="M56.9995 36.085C56.9995 47.6829 47.5975 57.085 35.9995 57.085C24.4015 57.085 14.9995 47.6829 14.9995 36.085C14.9995 24.487 24.4015 15.085 35.9995 15.085C47.5975 15.085 56.9995 24.487 56.9995 36.085Z" fill="white"/>
@@ -23,7 +23,7 @@
     </Details.Title>
 
     <Details.Details>
-        <Details.Detail detailTitle='País' detailDescription='Argentina'>
+        <Details.Detail detailTitle='Country' detailDescription='Argentina'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M36.0024 16C45.0024 16 50.9999 23 50.9999 32.5008C50.9999 39.1407 46.7675 45.4985 42.7995 50C41.1621 51.8576 39.5697 53.3991 38.3383 54.5139C36.9971 55.7281 35.0075 55.7282 33.6661 54.5143C32.4343 53.3994 30.8412 51.8578 29.203 50C28.9174 49.6761 28.6304 49.3426 28.3437 49C24.6464 44.582 21 38.6629 21 32.5008C21 23 27.1615 16 36.0024 16Z" fill="#00A3E0"/>
@@ -33,7 +33,7 @@
                 </svg>
         </Details.Detail>
        
-        <Details.Detail detailTitle='Población' detailDescription='~1.7 millones '>
+        <Details.Detail detailTitle='Population' detailDescription='~1.7 millions '>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -45,7 +45,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Tiempo' detailDescription='UTC -3 horas'>
+        <Details.Detail detailTitle='Time Zone' detailDescription='UTC -3 hours'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M57.0573 36.0001C57.0573 47.6296 47.6296 57.0573 36.0001 57.0573C24.3705 57.0573 14.9429 47.6296 14.9429 36.0001C14.9429 24.3705 24.3705 14.9429 36.0001 14.9429C47.6296 14.9429 57.0573 24.3705 57.0573 36.0001Z" fill="white"/>
@@ -57,7 +57,7 @@
                 </svg>
         </Details.Detail>
     
-        <Details.Detail detailTitle='Vuelos' detailDescription='Tres frecuencias semanales' detailURLText='Ver Vuelos' detailURL='https://www.copaair.com/es-gs/flight-status/' >
+        <Details.Detail detailTitle='Flights' detailDescription='Three weekly frequencies' detailURLText='See Flights' detailURL='https://www.copaair.com/en-gs/flight-status/' >
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M72 36C72 55.8823 55.8823 72 36 72C16.1177 72 0 55.8823 0 36C0 16.1177 16.1177 0 36 0C55.8823 0 72 16.1177 72 36Z" fill="#EFF5FF"/>
                 <path d="M49.3859 28.6116C52.2903 28.517 54.4714 30.9578 54.6818 32.4202C54.8747 33.8804 53.0216 34.1096 51.5769 34.3273L23.0314 38.436C22.2567 38.5384 21.6076 37.1838 21.2907 36.4446L18.7138 30.2922C18.4778 29.7605 18.8201 29.1381 19.3963 29.0652L19.992 28.9767C20.5507 28.9017 21.0943 29.0941 21.4896 29.4838L23.9617 32.014L32.9291 30.7268L28.0386 18.3202L30.4407 16.8104L41.3946 29.4857L49.3859 28.6116Z" fill="white"/>
@@ -69,7 +69,7 @@
                 </svg>
         </Details.Detail>
         
-        <Details.Detail detailTitle='Clima' detailDescription='25 a 40 °C en verano / 5 a 20 °C en invierno'>
+        <Details.Detail detailTitle='Climate' detailDescription='25 to 40°C in summer / 5 to 20°C in winter'>
             <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="36" cy="36" r="36" fill="#EFF5FF"/>
                 <path d="M19 22V51C19 53.7614 21.2386 56 24 56H41.1716C41.702 56 42.2107 55.7893 42.5858 55.4142L48.5 49.5L54.4142 43.5858C54.7893 43.2107 55 42.702 55 42.1716V22C55 20.8954 54.1046 20 53 20H51H48H31H28H21C19.8954 20 19 20.8954 19 22Z" fill="white"/>
@@ -79,7 +79,7 @@
         </Details.Detail>
     
         <Details.Detail 
-        detailTitle='Hoteles' detailDescription='Buscar Hoteles Operado por' detailURLText='Booking.com' detailURL='https://www.booking.com/city/ar/san-miguel-de-tucuman.en.html?aid=811211&label=copaair-destinationsguide-cityfacts&sid=f5fce31115908b33fb0c06544b707ef0&lang=en' >
+        detailTitle='Hotels' detailDescription='Find hotels powered by' detailURLText='Booking.com' detailURL='https://www.booking.com/city/us/san-diego.html?aid=811211&label=copaair-destinationsguide-cityfacts&sid=7a74a890d8501191d11b71d3d0076e8a&lang=en-us' >
         <svg height="48" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M72 36C72 43.1188 69.8894 50.0778 65.9351 55.9973C61.9807 61.9168 56.3601 66.531 49.7838 69.2567C43.2074 71.9823 35.9706 72.6971 28.9881 71.3105C22.0057 69.924 15.591 66.4984 10.5551 61.4668C5.5192 56.4352 2.08809 50.0235 0.695527 43.0422C-0.697037 36.061 0.0114643 28.8235 2.73147 22.2449C5.45147 15.6662 10.0609 10.0416 15.9769 6.08216C21.893 2.12271 28.8502 0.00613967 35.969 1.33321e-05C40.6992 -0.0040574 45.3838 0.924106 49.7551 2.73145C54.1264 4.5388 58.0987 7.18989 61.4449 10.5332C64.7911 13.8765 67.4456 17.8465 69.2567 22.2162C71.0678 26.586 72 31.2698 72 36Z" fill="#EFF5FF"/>
             <path d="M19.0732 20.7139C19.7908 20.8717 19.0732 34.4132 19.0732 34.4132L16.7266 45.1057L17.1643 52.9995H54.7675C54.7675 52.9995 55.4851 45.0052 55.2052 45.1057C54.9253 45.2062 52.184 34.4132 52.184 34.4132L52.0979 20.7139H19.0732Z" fill="white"/>
@@ -95,63 +95,60 @@
 
 </Details.Root>
 
-<Description.Root>  
+<Description.Root>
+    <p>
+        Tucumán perfectly combines its historical richness with amazing natural landscapes, offering unique destinations for all kinds of travelers.</p>
         <p>
-        Tucumán combina a la perfección su riqueza histórica con paisajes naturales sorprendentes, ofreciendo destinos únicos para todo tipo de viajeros.</p>
-<p>
-        Uno de los lugares más emblemáticos es Tafí del Valle, ubicado en los Valles Calchaquíes. Este destino es ideal para quienes buscan ecoturismo y actividades al aire libre como senderismo y cabalgatas. Sus paisajes montañosos, el aire puro y la tranquilidad lo convierten en un lugar perfecto para desconectarse de la rutina.</p>
+            One of the most emblematic places is Tafí del Valle, located in the Calchaquí Valleys. This destination is ideal for those seeking ecotourism and outdoor activities such as hiking and horseback riding. Its mountainous landscapes, fresh air and tranquility make it a perfect place to disconnect from routine.</p>
         <br>
-        <p> A pocos kilómetros, se encuentra Amaicha del Valle, un pueblo con una fuerte herencia cultural. Es hogar de la comunidad diaguita y es conocido por sus festivales tradicionales, donde se celebra la Pachamama, así como por el famoso Museo de la Pachamama, que expone la historia y el arte de los pueblos originarios de la región.</p>
+        <p> A few kilometers away is Amaicha del Valle, a town with a strong cultural heritage. It is home to the Diaguita community and is known for its traditional festivals, where the Pachamama is celebrated, as well as for the famous Pachamama Museum, which exhibits the history and art of the native peoples of the region.</p>
         <br>
-        <p>Para los amantes de la naturaleza y la aventura, San Pedro de Colalao es un destino imperdible. Rodeado de cerros y ríos, este pintoresco pueblo es ideal para realizar caminatas, paseos en bicicleta y explorar sus cavernas y cascadas. Es un destino perfecto para quienes buscan experiencias al aire libre y tranquilidad.</p>
-        <p>Otro sitio de gran atractivo es el Cerro San Javier, ubicado a pocos kilómetros de la ciudad de San Miguel de Tucumán. Este cerro ofrece senderos rodeados de una exuberante vegetación y miradores con vistas panorámicas de toda la región. Es una excelente opción para una escapada de un día, con actividades como parapente, caminatas y picnic en la montaña.</p>
+        <p>For nature and adventure lovers, San Pedro de Colalao is a must-see destination. Surrounded by hills and rivers, this picturesque town is ideal for hiking, biking and exploring its caves and waterfalls. It is a perfect destination for those seeking outdoor experiences and tranquility.</p>
+        <p>Another site of great attraction is Cerro San Javier, located a few kilometers from the city of San Miguel de Tucumán. This hill offers trails surrounded by lush vegetation and viewpoints with panoramic views of the entire region. It is an excellent option for a one-day getaway, with activities such as paragliding, hiking and picnics in the mountain.</p>
         <br>
-<p> Por último, no se puede dejar de mencionar Tafí Viejo, una ciudad con una fuerte identidad ferroviaria. Conocida por ser un centro de talleres ferroviarios en Argentina, hoy es un lugar ideal. Aquí puedes aprender sobre la historia del ferrocarril en el país. También puedes disfrutar de un recorrido por sus antiguas instalaciones. Estas forman parte del patrimonio cultural de la provincia.</p>
-           
-            <p>
-                Estos sitios fueron importantes para la historia de la República Argentina. Desde su vibrante capital, San Miguel de Tucumán, hasta los hermosos Valles Calchaquíes, aquí hay muchas experiencias. Estas harán de tu viaje una aventura inolvidable.
-                
-            </p>
-            <br>
-            <p>
-                Si estás planeando viajar a Tucumán, Copa Airlines ofrece vuelos cómodos y convenientes hacia este destino, conectándote desde el Hub de las Américas® en Panamá. Reserva hoy tus vuelos a Tucumán y comienza a descubrir sus maravillas.
-                
-            </p>
-
+        <p> Finally, one cannot fail to mention Tafí Viejo, a city with a strong railway identity. Known for being a center of railway workshops in Argentina, today it is an ideal place. Here you can learn about the history of the railroad in the country. You can also enjoy a tour of its old facilities. These are part of the cultural heritage of the province.</p>   
+        <p>
+            These sites were important to the history of the Argentine Republic. From its vibrant capital, San Miguel de Tucumán, to the beautiful Calchaquíes Valleys, there are many experiences here. They will make your trip an unforgettable adventure.
+        </p>
+        <br>
+        <p>
+            If you're planning a trip to Tucuman, Copa Airlines offers comfortable and convenient flights to this destination, connecting you from the Hub of the Americas® in Panama. Book your flights to Tucuman today and start discovering its wonders.
+        </p>
 </Description.Root>
 
 <Activities.Root>
     <Activities.Title>
-        ¿Qué hacer en San Miguel de Tucumán?
+       
+What is there to do in San Miguel de Tucuman?
     </Activities.Title>
     <Activities.Activities>
         <Activities.Activity
-        title="Explorar la historia y cultura"
-        description="Recorre la Casa Histórica de la Independencia, la Casa de Gobierno y la Plaza Independencia para conocer más sobre la historia argentina. Además, no te pierdas los museos en Tucumán. Puedes visitar el Museo Casa Padilla o el Museo Miguel Lillo. Allí aprenderás más sobre la cultura y la ciencia."
+        title="Explore the history and culture"
+        description="Tour the Casa Histórica de la Independencia, Casa de Gobierno and Plaza Independencia to learn more about Argentina's history. Also, don't miss the museums in Tucumán. You can visit the Casa Padilla Museum or the Miguel Lillo Museum. There you will learn more about culture and science."
         image="5ce60c4d-6835-44ac-9eb0-8d8e8a754a6b"
-        alt="Explorar la historia y cultura"
+        alt="Explore the history and culture"
         />
 
        
         <Activities.Activity
-        title="Disfrutar de la naturaleza y actividades al aire libre"
-        description="Los paisajes de Tucumán son ideales para quienes buscan aventura y contacto con la naturaleza. Visita el Cerro San Javier y recorre sus senderos o explora la biodiversidad en la Reserva Natural Aguas Chiquitas. También puedes hacer una escapada a San Pedro de Colalao o disfrutar de la tranquilidad de Amaicha del Valle."
+        title="Enjoying nature and outdoor activities"
+        description="Tucumán's landscapes are ideal for those seeking adventure and contact with nature. Visit Cerro San Javier and hike its trails or explore the biodiversity in the Aguas Chiquitas Natural Reserve. You can also take a trip to San Pedro de Colalao or enjoy the tranquility of Amaicha del Valle."
         image="f1b28c69-1eca-422c-89bb-09bca0a2ab6c"
-        alt="Disfrutar de la naturaleza y actividades al aire libre"
+        alt="Enjoying nature and outdoor activities"
         />
 
         <Activities.Activity
-        title="Aventurarse en los Valles Calchaquíes"
-        description="Un recorrido imperdible es por los Valles Calchaquíes, una región de montañas, viñedos y paisajes únicos. Tafí del Valle es uno de los destinos más visitados, ideal para desconectarse y disfrutar del aire puro del norte argentino."
+        title="Adventuring in the Calchaquí Valleys"
+        description="An unmissable tour is the Calchaquíes Valleys, a region of mountains, vineyards and unique landscapes. Tafí del Valle is one of the most visited destinations, ideal to disconnect and enjoy the fresh air of northern Argentina."
         image="a51df320-5ad6-4c16-ae10-1c4e5a6c0693"
-        alt="Aventurarse en los Valles Calchaquíes"
+        alt="Adventuring in the Calchaquí Valleys"
         />
 
         <Activities.Activity
-        title="Explorar la gastronomía local"
-        description="La provincia de Tucumán es famosa por su exquisita comida regional. No puedes irte sin probar las auténticas empanadas tucumanas, reconocidas como las mejores del país. Además, disfruta de platos tradicionales como el locro y la humita, acompañados de un buen vino de altura."
+        title="Exploring the local gastronomy"
+        description="The province of Tucumán is famous for its exquisite regional food. You cannot leave without trying the authentic empanadas tucumanas, recognized as the best in the country. Also, enjoy traditional dishes such as locro and humita, accompanied by a good high altitude wine."
         image="ec097a4f-7c3c-4479-90a3-e448bf22cb9b"
-        alt="Explorar la gastronomía local"
+        alt="Exploring the local gastronomy"
         />
 
     
@@ -162,20 +159,19 @@
 </Activities.Root>
 
 
-
 <Touring.Root image='2bcc0046-3d2c-4b47-bec5-68f72c8d4b62'>
-    <Touring.Title>Mejor época para visitar Tucumán</Touring.Title>
+    <Touring.Title>Best Time to Visit Tucumán</Touring.Title>
     <Touring.Description>
-    <p>El clima en Tucumán cambia según la región. La mejor época para visitar es en otoño y primavera.</p>
-    <p>Durante estas estaciones, las temperaturas son agradables. Además, el paisaje está en su máximo esplendor.</p>
-    <p>Si planeas viajar en fechas especiales, no te pierdas la celebración del 9 de julio. Ese día es la Independencia de Argentina. También recuerda el 24 de septiembre, cuando se conmemora la Batalla de Tucumán.</p>
+    <p>The climate in Tucumán varies by region. The best time to visit is during fall and spring.</p>
+    <p>During these seasons, temperatures are pleasant, and the landscape is at its most beautiful.</p>
+    <p>If you're planning to travel during special dates, don’t miss the celebration on July 9th—Argentina’s Independence Day. Also, remember September 24th, which commemorates the Battle of Tucumán.</p>
     <br>
     </Touring.Description>
-    <Touring.Title>Cómo llegar a Tucumán</Touring.Title>
+    <Touring.Title>How to Get to Tucumán</Touring.Title>
             <Touring.Description>
-            <p>Si estás buscando vuelos baratos a Tucumán, Copa Airlines ofrece excelentes opciones para viajar a la capital tucumana con conexiones desde distintas ciudades. Reserva hoy mismo tus boletos de avión a Tucumán y descubre este fascinante destino lleno de historia, cultura y naturaleza.</p>
+            <p>If you're looking for affordable flights to Tucumán, Copa Airlines offers great options to travel to the Tucumán capital with connections from various cities. Book your plane tickets to Tucumán today and discover this fascinating destination filled with history, culture, and nature.</p>
                 <p>
-                Tucumán te espera con los brazos abiertos. ¡Empieza a planificar tu viaje y explora lo mejor del noroeste argentino!</p>
+                    Tucumán welcomes you with open arms! Start planning your trip and explore the best of northwest Argentina.</p>
             </Touring.Description>
 </Touring.Root>
 
