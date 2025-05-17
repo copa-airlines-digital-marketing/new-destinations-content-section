@@ -159,7 +159,7 @@ What is there to do in San Miguel de Tucuman?
 </Activities.Root>
 
 
-<Touring.Root image='2bcc0046-3d2c-4b47-bec5-68f72c8d4b62'>
+<Touring.Root image='e28adfc8-bde2-4da8-b1e6-4fa07000cd8f'>
     <Touring.Title>Best Time to Visit Tucumán</Touring.Title>
     <Touring.Description>
     <p>The climate in Tucumán varies by region. The best time to visit is during fall and spring.</p>

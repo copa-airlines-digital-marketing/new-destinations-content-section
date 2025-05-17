@@ -162,7 +162,7 @@
 </Activities.Root>
 
 
-<Touring.Root image='2bcc0046-3d2c-4b47-bec5-68f72c8d4b62'>
+<Touring.Root image='e28adfc8-bde2-4da8-b1e6-4fa07000cd8f'>
     <Touring.Title>Melhor época para visitar Tucumán</Touring.Title>
     <Touring.Description>
     <p>O clima em Tucumán varia conforme a região. A melhor época para conhecer a região é no outono e na primavera.</p>
